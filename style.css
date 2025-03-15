@@ -1,0 +1,22 @@
+* {
+    font-family: "Courier New", "Lucida Console", sans-serif;
+}
+
+h1 {
+    text-align: center;
+    background-color: grey;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+.recipe {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.recipe1,.recipe2 {
+    margin-bottom: 15px;
+}
